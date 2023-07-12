@@ -1,7 +1,7 @@
 # How-to-extract-product-from-amazon-website--amazon-product-scraper
 How to extract product from amazon website and software will extract all product information with product images
 
-Check software on below link
+Check software on below link for buy premium software 
 https://codecanyon.net/item/amazon-scrapper/30917228
 
 <h4>What is Amazon Product Scraper?</h4>
